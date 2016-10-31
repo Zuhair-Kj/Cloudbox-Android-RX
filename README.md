@@ -90,10 +90,12 @@ o2.zipWith(o, new Func2<CloudBox.Result, CloudBox.Result, ArrayList<CloudBox.Res
 ```
 
 3-Now if you want to get the content of the file you simply type:
+```java 
 String privacyPolicyString = cloudbox.getFileAsString(MainActivity.this, "privacyPolicy", ".json");
+```
 
 4-Keep a fallback version with same name in the assets to use in case of offline use.
 
-Use CloudBox.setLogEnabled(true) to keep track of the whole process.
+Use ```CloudBox.setLogEnabled(true)``` to keep track of the whole process.
 
 Thanks.
