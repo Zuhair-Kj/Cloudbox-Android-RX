@@ -29,12 +29,6 @@ classpath 'com.github.dcendents:android-maven-gradle-plugin:1.4.1'
 classpath 'me.tatarka:gradle-retrolambda:2.5.0’
 }
 ```
-4-Add the following to the app module grade:
-```groovy
-dependencies {
-compile project(':Cloudbox-Android-RX')
-}
-```
 
 #How to use
 
