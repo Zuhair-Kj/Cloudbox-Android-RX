@@ -1,3 +1,12 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/*
+.DS_Store
+/build
+/captures
 /build
 # built application files
 *.apk
@@ -28,7 +37,4 @@ app/build/*
 .gradle/*
 build/*
 
-install.gradle
-bintray.gradle
-
-
+Cloudbox-Android-RX/build
