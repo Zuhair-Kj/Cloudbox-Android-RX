@@ -2,11 +2,12 @@
 This library enables you to get your remote files hosted on Cloudbox seamlessly using RXJava.
 If you prefer to use the Callbacks way you can use this library (https://github.com/duriana/Cloudbox-Android)
 
-[![](https://jitpack.io/v/duriana/Cloudbox-Android-RX.svg)](https://jitpack.io/#duriana/Cloudbox-Android-RX)
-
 # Setting up.
 
-1-import the module 
+1-Import the stable version of the module (Gradle/Maven):
+[![](https://jitpack.io/v/duriana/Cloudbox-Android-RX.svg)](https://jitpack.io/#duriana/Cloudbox-Android-RX)
+
+
 
 2-if you have extended the class Application.
 
