@@ -2,6 +2,10 @@
 This library enables you to get your remote files hosted on Cloudbox seamlessly using RXJava.
 If you prefer to use the Callbacks way you can use this library (https://github.com/duriana/Cloudbox-Android)
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+
 # Setting up.
 
 1-Import the stable version of the module (Gradle/Maven):
