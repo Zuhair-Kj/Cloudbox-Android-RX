@@ -1,6 +1,6 @@
 # Cloudbox-Android-RX
 This library enables you to get your remote files hosted on Cloudbox seamlessly using RXJava which can come in handy when you don't want to waste your server resources on some files that don't change frequesntly.
-If you prefer to use the Callbacks way you can use this library (https://github.com/duriana/Cloudbox-Android)
+If you prefer the Callbacks fashion you can use this version (https://github.com/duriana/Cloudbox-Android)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
